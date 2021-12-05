@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deang1983
+- 👋 Hi, I’m Dean Giroir
 - 👀 I’m interested in becoming a Software Developer
 - 🌱 I’m currently learning HTML, CSS, JavaScript & Python
 - 💞️ I’m looking to collaborate on Github
